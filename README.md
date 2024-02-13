@@ -1,4 +1,5 @@
 # Welcome to SearchesResearch!
 
 - This project wouldn't have been possible without the hard work and dedication of me and my amazing team members, Amr Eid , Ismail ElDahshan, and Mohamed Azouz. I want to take a moment to express my heartfelt gratitude to each and every one of them.
+  
 - This comparative study explores different search algorithms in C++ and their time complexities. The four main search algorithms discussed are Binary Search, Jump Search, Exponential Search, and Hashing. Binary search is efficient for sorted arrays with a time complexity of O(log n), while Jump Search divides the data into blocks for faster searching with a time complexity of O(n/m + (m-1)). Exponential Search is useful for unbounded data sets with a time complexity of O(log n). Hashing provides constant time complexity O(1) in the best case, but it can vary based on the load factor. The study conducts experiments to analyze the execution time and scaling behavior of each algorithm for different input sizes, aiming to identify their efficiency and help choose the appropriate algorithm for specific cases.
